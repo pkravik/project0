@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<!-- This is the menu in XML -->
+
+<menu>
+	<pizzas>
+		<tomato_and_cheese>
+			<name>Tomato &amp; Cheese</name>
+			<small>550</small>
+			<large>975</large>
+		</tomato_and_cheese>
+		<two_way_combo>
+			<name>2-way combo</name>
+			<small>795</small>
+			<large>1180</large>
+		</two_way_combo>
+		<broccoli>
+			<name>Broccoli</name>
+			<small>685</small>
+			<large>1085</large>
+		</broccoli>
+	</pizzas>
+	<speciality_pizzas>
+		<three_acres_special>
+			<name>Three Acres Special</name>
+			<small>980</small>
+			<large>1580</large>
+		</three_acres_special>
+		<grecian_supreme>
+			<name>Grecian Supreme Grilled Chicken, Feta Cheese, Tomatoes, Kalamata Olives </name>
+			<small>980</small>
+			<large>1580</large>
+		</grecian_supreme>
+	</speciality_pizzas>
+	<special_dinners>
+		<chicken_wing_dinner>
+			<name>Chicken Wing Dinner</name>
+			<price>725</price>
+		</chicken_wing_dinner>
+		<gyro_plate>
+			<name>Gyro Plate</name>
+			<price>725</price>
+		</gyro_plate>
+		<steak_tips_dinner>
+			<name>Steak Tips Dinner Served with side salad &amp; french fries</name>
+			<price>825</price>
+		</steak_tips_dinner>
+	</special_dinners>
+</menu>
